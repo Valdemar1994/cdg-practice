@@ -1,4 +1,4 @@
-#First method
+# First method
 
 def greeting(firstname, secondname, age)
     if age < 18
@@ -9,7 +9,7 @@ but it is not never too early start learning programming!".gsub("\n","")
     end
 end
 
-#Second method
+# Second method
 
 def foobar(a,b)
     if a == 20
