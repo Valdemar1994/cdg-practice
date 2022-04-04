@@ -25,7 +25,7 @@ RSpec.describe "Task2" do
         expect(foobar(-30, 20)).to eq("first number = -30")
     end
 
-    it "returns the sum of two numbers if first number and second number equil 20" do
+    it "returns the sum of two numbers if first number and second number not equil 20" do
         expect(foobar(5, 31)).to eq("summ = 36")
     end
 end
