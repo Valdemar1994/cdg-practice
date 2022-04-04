@@ -1,7 +1,7 @@
 require "rspec"
 require "./task"
 
-#First method testing
+# First method testing
 
 RSpec.describe "Task1" do
     it "returns greeting message if user yonger than 18" do
@@ -14,7 +14,7 @@ but it is not never too early start learning programming!".gsub("\n",""))
     end
 end
 
-#Second method testing
+# Second method testing
 
 RSpec.describe "Task2" do
     it "returns second number if first number equil 20" do
